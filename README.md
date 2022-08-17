@@ -7,7 +7,7 @@
   实现了切点表达式的包扫描解析和注解解析，实现了前置通知、返回通知、异常通知、后置通知和环绕通知的切面方法的切入实现（目前仅采用JDK动态代理的方式对Aop进行实现）
 ### 2、项目截图
   ##### 2.1、IOC使用截图
-  - **通过工厂方法获取ApplicationContext**
+  - **通过工具类方法获取ApplicationContext**
   
   ![image](https://user-images.githubusercontent.com/62747607/185086997-b6566de0-ee27-4ff7-8723-024d1bbcd4c4.png)
   
